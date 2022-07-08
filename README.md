@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Red Dead Redemption || melhor jogo.
 <div align="center">
   <a href="https://github.com/DeadMaul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeadMaul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2GuilhermeSantos2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2GuilhermeSantos2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
