@@ -3,7 +3,7 @@
  
 - 🌱 Estudando: HTML5,CSS3,JavaScript,Wordpress e Python
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: Red Dead Redemption || melhor jogo.
+- ⚡ Fun fact: Red Dead Redemption 2 || melhor jogo.
 <div align="center">
   <a href="https://github.com/DeadMaul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2GuilhermeSantos2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
